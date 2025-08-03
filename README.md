@@ -5,8 +5,10 @@
 
 🧑🏻‍💻Confira meus projetos e acompanhe minha jornada nas redes sociais!  
                    
+*****
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,python,c,git)](https://skillicons.dev)
+
 ##
 
 <div> 
