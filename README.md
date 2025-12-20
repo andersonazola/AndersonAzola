@@ -1,5 +1,5 @@
 
-## Ola! Muito bem vindo👋
+## Olá! Muito bem vindo👋
 
 🧑🏻‍🎓 Estudante em Análise e Desenvolvimento de sistemas pela [Unifenas](https://www.unifenas.br/) 
 
