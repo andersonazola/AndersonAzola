@@ -1,7 +1,7 @@
 
 ## Olá! Muito bem vindo👋
 
-🧑🏻‍🎓 Estudante em Análise e Desenvolvimento de sistemas pela [Unifenas](https://www.unifenas.br/) 
+🧑🏻‍🎓 Estudante em Análise e Desenvolvimento de Sistemas pela [Unifenas](https://www.unifenas.br/) 
 
 🧑🏻‍💻Confira meus projetos e acompanhe minha jornada nas redes sociais!  
                    
