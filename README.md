@@ -9,7 +9,7 @@
                    
 *****
 
-[![My Skills](https://skillicons.dev/icons?i=python,cs,dotnet,docker,flutter,mysql,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cs,dotnet,docker,flutter,mysql,react,git)](https://skillicons.dev)
 
 ##
 
