@@ -1,7 +1,7 @@
 
 ## Olá! Muito Bem Vindo👋
 
-🧑🏻‍💻 Desenvolvedor .Net da empresa [Iterative](https://iterative.com.br/) prestando serviço para [ConnectCar](https://conectcar.com/)
+🧑🏻‍💻 Desenvolvedor .Net na empresa [Iterative](https://iterative.com.br/) prestando serviço para [ConnectCar](https://conectcar.com/)
 
 🧑🏻‍🎓 Estudante em Análise e Desenvolvimento de Sistemas pela [Unifenas](https://www.unifenas.br/) 
 
