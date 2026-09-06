@@ -1,9 +1,11 @@
 
 ## Olá! Muito Bem Vindo👋
 
+🧑🏻‍💻 Desenvolvedor .Net da empresa [Iterative](https://iterative.com.br/) prestando serviço para [ConnectCar](https://conectcar.com/)
+
 🧑🏻‍🎓 Estudante em Análise e Desenvolvimento de Sistemas pela [Unifenas](https://www.unifenas.br/) 
 
-🧑🏻‍💻 Formação em Desenvolvimento Full-Stack na [Itera360](https://www.itera360.com.br/) 
+💻 Formação em Desenvolvimento Full-Stack na [Itera360](https://www.itera360.com.br/) 
 
 🕵️ Confira meus projetos e acompanhe minha jornada nas redes sociais!  
                    
