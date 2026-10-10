@@ -11,7 +11,7 @@
                    
 *****
 
-[![My Skills](https://skillicons.dev/icons?i=python,cs,dotnet,docker,flutter,mysql,react,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cs,dotnet,docker,flutter,mysql,react,git,azure,postman)](https://skillicons.dev)
 
 ##
 
@@ -21,5 +21,5 @@
   <a href="https://www.linkedin.com/in/anderson-azola-b469bb295/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
+/
 
